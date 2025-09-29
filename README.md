@@ -2,7 +2,7 @@
   <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 
-<h1 align="center">Wassup 👋! I'm Meng Kheang</h1>
+<h1 align="center">Wassup👋! I'm Meng Kheang</h1>
 
 <p align="center">
   <strong>Connect with me:</strong>
